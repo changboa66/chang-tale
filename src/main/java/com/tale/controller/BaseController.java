@@ -1,13 +1,12 @@
 package com.tale.controller;
 
-import com.blade.mvc.WebContext;
 import com.blade.mvc.http.Request;
 import com.tale.model.entity.Users;
 import com.tale.utils.MapCache;
 import com.tale.utils.TaleUtils;
 
 /**
- * Created by biezhi on 2017/2/21.
+ * Created by zcb on 2017/2/21.
  */
 public abstract class BaseController {
 
