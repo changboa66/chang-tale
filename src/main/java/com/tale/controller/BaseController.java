@@ -36,7 +36,7 @@ public abstract class BaseController {
         return this.user().getUid();
     }
 
-    public String render_404() {
+    String render_404() {
         return "/comm/error_404";
     }
 
